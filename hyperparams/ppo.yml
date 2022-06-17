@@ -564,7 +564,7 @@ Walker2d-v3:
 
 uav-v0:
   n_envs: 8
-  n_timesteps: !!float 1e6
+  n_timesteps: !!float 1e7
   policy: 'MultiInputPolicy'
 #  batch_size: 16
 #  n_steps: 64
