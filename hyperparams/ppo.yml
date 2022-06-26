@@ -607,3 +607,22 @@ uav-v8:
   n_timesteps: !!float 1e7
   policy: 'MultiInputPolicy'
 
+uav-v9:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v10:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v11:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v12:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
