@@ -566,17 +566,44 @@ uav-v0:
   n_envs: 8
   n_timesteps: !!float 1e7
   policy: 'MultiInputPolicy'
-#  batch_size: 16
-#  n_steps: 64
-#  gamma: 0.999
-#  learning_rate: 0.0008785832439679577
-#  ent_coef: 4.0730015340677664e-07
-#  clip_range: 0.4
-#  n_epochs: 5
-#  gae_lambda: 1.0
-#  max_grad_norm: 5
-#  vf_coef: 0.7423330475774952
-#  policy_kwargs: "dict(activation_fn=nn.ReLU,
-#                       net_arch=[64, 64]
-#                       )"
+
+uav-v1:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v2:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v3:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v4:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v5:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v6:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v7:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
+
+uav-v8:
+  n_envs: 8
+  n_timesteps: !!float 1e7
+  policy: 'MultiInputPolicy'
 
